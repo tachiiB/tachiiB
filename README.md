@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Taha JAY</h1>
-<h3 align="center">A Data Science undergrad from UET Lahore!</h3>
+<h3 align="center">A Data Science undergraduate from UET Lahore!</h3>
 
 - 🔭 I’m currently working on many AI Native Projects like [Hum Aahang](https://github.com/tachiiB/HumAahang)
 
